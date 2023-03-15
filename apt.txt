@@ -1,1 +1,2 @@
 libglu1
+libxcursor1
