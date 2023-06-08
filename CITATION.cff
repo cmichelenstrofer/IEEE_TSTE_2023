@@ -22,8 +22,8 @@ preferred-citation:
   type: article
   authors:
   - family-names: "Michelen Strofer"
-  given-names: "Carlos A."
-  orcid: "https://orcid.org/0000-0001-6274-7271"
+    given-names: "Carlos A."
+    orcid: "https://orcid.org/0000-0001-6274-7271"
   doi: "10.1109/TSTE.2023.3272868"
   journal: "IEEE Transactions on Sustainable Energy"
   month: 5
