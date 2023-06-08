@@ -1,7 +1,7 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 authors:
-- family-names: "Michelen Strofer"
+- family-names: "Michelén Ströfer"
   given-names: "Carlos A."
   orcid: "https://orcid.org/0000-0001-6274-7271"
 - family-names: "Gaebele"
@@ -21,7 +21,7 @@ url: "https://github.com/github-linguist/linguist"
 preferred-citation:
   type: article
   authors:
-  - family-names: "Michelen Strofer"
+  - family-names: "Michelén Ströfer"
     given-names: "Carlos A."
     orcid: "https://orcid.org/0000-0001-6274-7271"
   - family-names: "Gaebele"
