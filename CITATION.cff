@@ -18,27 +18,3 @@ version: 1.0.0
 doi: 10.5281/zenodo.1234
 date-released: 2017-12-18
 url: "https://github.com/github-linguist/linguist"
-preferred-citation:
-  type: article
-  authors:
-  - family-names: "Michelen Strofer"
-  given-names: "Carlos A."
-  orcid: "https://orcid.org/0000-0001-6274-7271"
-  - family-names: "Gaebele"
-    given-names: "Daniel T."
-    orcid: "https://orcid.org/0000-0002-1209-0715"
-  - family-names: "Coe"
-    given-names: "Ryan G."
-    orcid: "https://orcid.org/0000-0003-0738-3772"
-  - family-names: "Bacelli"
-    given-names: "Giorgio"
-    orcid: "https://orcid.org/0000-0002-1208-2352"
-  doi: "10.1109/TSTE.2023.3272868"
-  journal: "IEEE Transactions on Sustainable Energy"
-  month: 5
-  start: 1
-  end: 11 
-  title: "Control Co-Design of Power Take-off Systems for Wave Energy Converters using WecOptTool"
-  issue: 1
-  volume: 1
-  year: 2023
