@@ -1,7 +1,7 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 authors:
-- family-names: "Michelén Ströfer"
+- family-names: "Michelen Strofer"
   given-names: "Carlos A."
   orcid: "https://orcid.org/0000-0001-6274-7271"
 - family-names: "Gaebele"
@@ -18,7 +18,7 @@ version: 1.0
 preferred-citation:
   type: article
   authors:
-  - family-names: "Michelén Ströfer"
+  - family-names: "Michelen Strofer"
   given-names: "Carlos A."
   orcid: "https://orcid.org/0000-0001-6274-7271"
   - family-names: "Gaebele"
